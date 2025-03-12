@@ -1,3 +1,4 @@
 "File content"
 "Conflict content"
 "Local content"
+"Cloud content"
